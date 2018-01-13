@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="completion_proposal_size">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="227191" key="searchFlags"/>
+		<item value="false" key="caseSensitive"/>
+		<list key="previousPatterns">
+			<item value="DFR_DriveBackward"/>
+			<item value="FIODIR"/>
+			<item value="GPIO_SetDir"/>
+			<item value="taskENTER_CRITICAL"/>
+			<item value="configMINIMAL_STACK_SIZE"/>
+			<item value="voidGPIO_IntCmduint8_tportNumuint32_tbitValueuint8_tedgeState"/>
+			<item value="NVIC_EnableIRQEINT3_IRQn"/>
+			<item value="GPIO_IntCmd"/>
+		</list>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item value="893" key="size.width"/>
+		<item value="238" key="size.height"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+</section>

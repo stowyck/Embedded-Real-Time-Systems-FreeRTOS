@@ -1,0 +1,6 @@
+15:37:04 **** Incremental Build of configuration Debug for project LibFreeRTOS ****
+make -r all 
+make: Nothing to be done for `all'.
+
+15:37:05 Build Finished (took 602ms)
+

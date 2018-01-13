@@ -1,0 +1,25 @@
+Source/pca9532.o Source/pca9532.d: ../Source/pca9532.c \
+ O:\good\ version\DFRobotRTOS_T2_S1\LibLPC17xx\Include/lpc17xx_i2c.h \
+ O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/LPC17xx.h \
+ O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/Core_CM3.h \
+ O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/Core_CMInstruction.h \
+ O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/Core_CMFunction.h \
+ O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/System_LPC17xx.h \
+ O:\good\ version\DFRobotRTOS_T2_S1\LibLPC17xx\Include/LPC17xx_Types.h \
+ O:\good\ version\DFRobotRTOS_T2_S1\FreeRTOSProject\Include/pca9532.h
+
+O:\good\ version\DFRobotRTOS_T2_S1\LibLPC17xx\Include/lpc17xx_i2c.h:
+
+O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/LPC17xx.h:
+
+O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/Core_CM3.h:
+
+O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/Core_CMInstruction.h:
+
+O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/Core_CMFunction.h:
+
+O:\good\ version\DFRobotRTOS_T2_S1\LibCMSIS\Include/System_LPC17xx.h:
+
+O:\good\ version\DFRobotRTOS_T2_S1\LibLPC17xx\Include/LPC17xx_Types.h:
+
+O:\good\ version\DFRobotRTOS_T2_S1\FreeRTOSProject\Include/pca9532.h:
